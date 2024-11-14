@@ -1,0 +1,2 @@
+## Proyecto análisis Beta Bank
+Crear un modelo para predecir si un cliente dejará el banco pronto. Se tiene los datos sobre el comportamiento pasado de los clientes y la terminación de contratos con el banco.
